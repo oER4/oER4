@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+東京科学大学 理工学系工学院情報通信系 学部4年
+
+- x: 
+- portfolio: working
+- zenn:
